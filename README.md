@@ -15,7 +15,7 @@ This is the first window the user encounters. It provides navigation to the appl
 ![Main Menu](pictures/main_menu.png)
 <p align="center">
   <b>Before</b> 
-  <img src="(pictures/main_menu.png)" width="300"> 
+  <img src="(pictures/main_menu.png)" width="200"> 
   <span style="font-size: 30px;">➜</span>  
   <b>After</b>
 </p>
