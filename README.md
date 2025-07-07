@@ -22,7 +22,7 @@ The heart of the application. This panel contains a 4x4 game board, a move count
 ### 2.3 Scores Panel
 This panel displays the best scores achieved in the game. The data is loaded from an external file, allowing for progress tracking. The panel includes a table with columns for the player's name, number of moves, and time, along with a button to close and return to the menu.
 
-![Scores Panel](scores_panel.png)
+<img src="pictures/scores_panel.png" alt="scores_panel" width="400"/>
 
 ---
 
@@ -36,9 +36,10 @@ This panel displays the best scores achieved in the game. The data is loaded fro
     *   If the numbers do not match, the cards will flip back over after a short delay.
     *   The move and time counters update automatically.
 4.  **End of Game:** The game ends when all 8 pairs are found. A victory message will pop up, prompting you to enter your name to save your score.
-    ![Victory Prompt](victory_prompt.png)
-5.  **View Scores:** From the main menu, click "Record Table" to view the high scores.
-6.  **Exit:** You can exit the program by clicking the "EXIT" button on the main menu.
+    
+    <img src="pictures/victory_prompt.png" alt="victory_prompt" width="400"/>
+6.  **View Scores:** From the main menu, click "Record Table" to view the high scores.
+7.  **Exit:** You can exit the program by clicking the "EXIT" button on the main menu.
 
 ---
 
