@@ -13,7 +13,7 @@ The project was built with an emphasis on separating logic from presentation, ef
 This is the first window the user encounters. It provides navigation to the application's main features: starting a new game, viewing the high scores table, or exiting the program.
 
 ![Main Menu]
-<img src="main_menu.png" alt="Main Menu" width="400"/>
+<img src="pictures/main_menu.png" alt="Main Menu" width="400"/>
 ### 2.2 Game Panel
 The heart of the application. This panel contains a 4x4 game board, a move counter, a timer, and a button to return to the main menu.
 
